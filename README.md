@@ -2,7 +2,7 @@
 
 DevOps/FullStack node.js developer.
 
-Check out [my dev blog on Hashnode](https://jurajsim.hashnode.dev/).
+Check out [my dev blog on Hashnode](https://jurajsim.hashnode.dev/) 🤩
 
 GitHub Action Series:
 - [How to Send More Than Ten Inputs with Workflow Dispatch](https://jurajsim.hashnode.dev/how-to-send-more-than-ten-inputs-with-workflow-dispatch)
@@ -12,6 +12,7 @@ GitHub Action Series:
 Cypress related:
 - [Running Cypress in parallel using GitHub actions](https://jurajsim.hashnode.dev/running-cypress-in-parallel-using-github-actions)
 
+-----
 
 I'm maintainig some GitHub actions:
 - [roamingowl/template-output-with-eta](https://github.com/roamingowl/template-output-with-eta) - simple template engine to use in GitHub actions.
