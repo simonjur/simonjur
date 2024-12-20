@@ -2,7 +2,13 @@
 
 DevOps/FullStack node.js developer.
 
-Check out [my dev blog on Hashnode](https://jurajsim.hashnode.dev/). 
+Check out [my dev blog on Hashnode](https://jurajsim.hashnode.dev/).
+
+GitHub Action Series:
+- [How to Send More Than Ten Inputs with Workflow Dispatch](https://jurajsim.hashnode.dev/how-to-send-more-than-ten-inputs-with-workflow-dispatch)
+- [How to connect dispatching and dispatched workflows](https://jurajsim.hashnode.dev/how-to-connect-dispatching-and-dispatched-workflows)
+- [Maximum of twenty unique reusable workflows limit. And how to get around it](https://jurajsim.hashnode.dev/maximum-of-twenty-unique-reusable-workflows-limit)
+
 
 I'm maintainig some GitHub actions:
 - [roamingowl/template-output-with-eta](https://github.com/roamingowl/template-output-with-eta) - simple template engine to use in GitHub actions.
