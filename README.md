@@ -2,6 +2,8 @@
 
 DevOps/FullStack node.js developer.
 
+-----
+
 Check out [my dev blog on Hashnode](https://jurajsim.hashnode.dev/) 🤩
 
 GitHub Action Series:
@@ -17,6 +19,8 @@ Cypress related:
 I'm maintainig some GitHub actions:
 - [roamingowl/template-output-with-eta](https://github.com/roamingowl/template-output-with-eta) - simple template engine to use in GitHub actions.
 - [roamingowl/workflow-dispatch](https://github.com/roamingowl/workflow-dispatch) - extended version of workflow dispatcher for GitHub actions
+
+-----
 
 My volunteering project for Botanic Garden of the Science Faculty, Charles University:
 - [Garden map webapp](https://registr.bz-uk.roamingowl.com/map)
