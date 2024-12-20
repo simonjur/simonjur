@@ -9,6 +9,9 @@ GitHub Action Series:
 - [How to connect dispatching and dispatched workflows](https://jurajsim.hashnode.dev/how-to-connect-dispatching-and-dispatched-workflows)
 - [Maximum of twenty unique reusable workflows limit. And how to get around it](https://jurajsim.hashnode.dev/maximum-of-twenty-unique-reusable-workflows-limit)
 
+Cypress related:
+- [Running Cypress in parallel using GitHub actions](https://jurajsim.hashnode.dev/running-cypress-in-parallel-using-github-actions)
+
 
 I'm maintainig some GitHub actions:
 - [roamingowl/template-output-with-eta](https://github.com/roamingowl/template-output-with-eta) - simple template engine to use in GitHub actions.
